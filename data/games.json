@@ -1,0 +1,27 @@
+[
+    {
+        "slug": "duel-chronicles",
+        "title": "Duel Chronicles",
+        "description": "A strategic card game built with Godot, focused on deck building, tactical turns, and expressive card effects.",
+        "cover": "images/games/duel-chronicles-cover.webp",
+        "banner": "images/games/duel-chronicles-banner.webp",
+        "status": "in-development",
+        "platforms": [
+            "Windows",
+            "Linux",
+            "Android"
+        ],
+        "genre": [
+            "Card Game",
+            "Strategy"
+        ],
+        "version": "0.1.0",
+        "content": "games/duel-chronicles.md",
+        "download_url": "",
+        "demo_url": "",
+        "github_url": "",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-04"
+    }
+]
