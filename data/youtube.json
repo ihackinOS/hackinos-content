@@ -1,0 +1,20 @@
+{
+    "channel_name": "HackinOS",
+    "channel_url": "https://www.youtube.com/@hackinos",
+    "subscribe_url": "https://www.youtube.com/@hackinos?sub_confirmation=1",
+    "featured_videos": [
+        {
+            "title": "Video title",
+            "video_id": "VIDEO_ID",
+            "published_at": "2026-09-04",
+            "description": "Mô tả video ngắn."
+        }
+    ],
+    "playlists": [
+        {
+            "title": "Hackintosh Tutorials",
+            "url": "https://www.youtube.com/playlist?list=PLAYLIST_ID",
+            "description": "Các video hướng dẫn Hackintosh và OpenCore."
+        }
+    ]
+}

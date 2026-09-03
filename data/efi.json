@@ -1,0 +1,28 @@
+[
+    {
+        "slug": "dell-latitude-7490",
+        "title": "Dell Latitude 7490 OpenCore EFI",
+        "description": "EFI OpenCore cho Dell Latitude 7490 với Intel Core i5-8350U và Intel UHD 620.",
+        "cover": "images/efi/dell-latitude-7490.webp",
+        "platform": "Laptop",
+        "brand": "Dell",
+        "cpu": "Intel Core i5-8350U",
+        "gpu": "Intel UHD 620",
+        "motherboard": "Dell 0KP0FT",
+        "macos": [
+            "Ventura",
+            "Sonoma"
+        ],
+        "status": "stable",
+        "working": [
+            "Wi-Fi",
+            "Bluetooth",
+            "Audio",
+            "Sleep"
+        ],
+        "guide": "efi-guides/dell-latitude-7490.md",
+        "download_url": "",
+        "updated_at": "2026-09-04",
+        "published": true
+    }
+]

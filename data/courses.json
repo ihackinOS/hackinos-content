@@ -1,0 +1,15 @@
+[
+    {
+        "slug": "opencore-foundation",
+        "title": "OpenCore Foundation",
+        "description": "Khóa học miễn phí về nền tảng Hackintosh, OpenCore và quy trình chuẩn bị EFI.",
+        "cover": "images/courses/opencore-foundation.webp",
+        "level": "Beginner",
+        "lessons": 12,
+        "duration": "4 giờ 30 phút",
+        "content": "courses/opencore-foundation.md",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-04"
+    }
+]

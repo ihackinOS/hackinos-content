@@ -1,0 +1,27 @@
+[
+    {
+        "slug": "duel-chronicles",
+        "title": "Duel Chronicles",
+        "description": "Game thẻ bài chiến thuật được phát triển bằng Godot.",
+        "cover": "images/games/duel-chronicles-cover.webp",
+        "banner": "images/games/duel-chronicles-banner.webp",
+        "status": "development",
+        "platforms": [
+            "Windows",
+            "Linux",
+            "Android"
+        ],
+        "genre": [
+            "Card Game",
+            "Strategy"
+        ],
+        "version": "0.1.0",
+        "content": "games/duel-chronicles.md",
+        "download_url": "",
+        "demo_url": "",
+        "github_url": "",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-04"
+    }
+]
