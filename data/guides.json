@@ -1,0 +1,24 @@
+[
+    {
+        "slug": "getting-started-with-opencore",
+        "title": "Getting Started with OpenCore",
+        "description": "Understand the basic OpenCore workflow, hardware planning, and the role of an EFI folder.",
+        "category": "Fundamentals",
+        "level": "Beginner",
+        "content": "guides/getting-started-with-opencore.md",
+        "published": true,
+        "featured": true,
+        "updated_at": "2026-09-04"
+    },
+    {
+        "slug": "efi-backup-and-recovery",
+        "title": "EFI Backup and Recovery",
+        "description": "Create safe EFI backups and prepare a recovery workflow before making configuration changes.",
+        "category": "Safety",
+        "level": "Beginner",
+        "content": "guides/efi-backup-and-recovery.md",
+        "published": true,
+        "featured": true,
+        "updated_at": "2026-09-04"
+    }
+]
