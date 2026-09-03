@@ -2,10 +2,10 @@
     {
         "slug": "duel-chronicles",
         "title": "Duel Chronicles",
-        "description": "Game thẻ bài chiến thuật được phát triển bằng Godot.",
+        "description": "A strategic card game built with Godot, focused on deck building, tactical turns, and expressive card effects.",
         "cover": "images/games/duel-chronicles-cover.webp",
         "banner": "images/games/duel-chronicles-banner.webp",
-        "status": "development",
+        "status": "in-development",
         "platforms": [
             "Windows",
             "Linux",

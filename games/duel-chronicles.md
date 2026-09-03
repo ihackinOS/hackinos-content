@@ -1,21 +1,22 @@
 # Duel Chronicles
 
-Duel Chronicles là game thẻ bài chiến thuật được xây dựng bằng Godot.
+Duel Chronicles is a strategic card game built with Godot. Players assemble decks, summon units, trigger card effects, and outplay opponents through tactical turn-based battles.
 
-## Lối chơi
+## Current development goals
 
-Người chơi xây dựng deck, triệu hồi đơn vị và sử dụng hiệu ứng thẻ để đánh bại đối thủ.
+- Core battle system
+- Deck building and local collection management
+- AI opponents
+- Card-effect event system
+- Summoning and combat animations
+- Windows, Linux, and Android support
 
-## Tính năng đang phát triển
+## Gameplay direction
 
-- Xây dựng và lưu deck
-- Đấu với AI
-- Hệ thống hiệu ứng thẻ theo event
-- Animation triệu hồi và chiến đấu
-- Hỗ trợ Windows, Linux và Android
+The game focuses on meaningful decisions: managing resources, planning turns, reading the opponent's board, and combining cards into reliable strategies.
 
 ## Roadmap
 
-- Alpha: Core battle loop
-- Beta: Deck builder và progression
-- Release: Campaign và online features
+- **Alpha:** Core rules, card database, battle loop, and AI
+- **Beta:** Deck builder, progression, visual polish, and balance testing
+- **Release:** Campaign content, expanded card pool, and online-oriented features

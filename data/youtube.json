@@ -4,17 +4,17 @@
     "subscribe_url": "https://www.youtube.com/@hackinos?sub_confirmation=1",
     "featured_videos": [
         {
-            "title": "Video title",
+            "title": "Getting Started with OpenCore",
             "video_id": "VIDEO_ID",
             "published_at": "2026-09-04",
-            "description": "Mô tả video ngắn."
+            "description": "A practical introduction to planning an OpenCore-based Hackintosh build."
         }
     ],
     "playlists": [
         {
             "title": "Hackintosh Tutorials",
             "url": "https://www.youtube.com/playlist?list=PLAYLIST_ID",
-            "description": "Các video hướng dẫn Hackintosh và OpenCore."
+            "description": "OpenCore and Hackintosh tutorials from HackinOS."
         }
     ]
 }

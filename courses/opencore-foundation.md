@@ -1,21 +1,22 @@
 # OpenCore Foundation
 
-Khóa học miễn phí dành cho người mới bắt đầu tìm hiểu về Hackintosh, OpenCore và EFI.
+OpenCore Foundation is a free course for beginners who want to understand the building blocks of a Hackintosh system before creating an EFI.
 
-## Bạn sẽ học được gì?
+## What you will learn
 
-- Cách kiểm tra phần cứng có phù hợp hay không
-- Vai trò của OpenCore, ACPI, kext và `config.plist`
-- Cách chuẩn bị USB installer
-- Quy trình tạo EFI theo phần cứng
-- Các bước kiểm tra lỗi boot phổ biến
+- How to evaluate Hackintosh hardware compatibility
+- The role of OpenCore, ACPI, kexts, and `config.plist`
+- How to prepare a macOS installer USB
+- How to plan an EFI around your own hardware
+- How to diagnose common boot and post-install issues
 
-## Bài 1: Tổng quan
+## Lesson 1: Understanding the workflow
 
-Nội dung bài học bắt đầu tại đây.
+A Hackintosh setup is not a single download-and-install process. It is a hardware-specific workflow that starts with identifying your CPU platform, chipset, graphics hardware, wireless card, storage setup, and macOS target.
 
-```bash
-diskutil list
-```
+## Before you begin
 
-> Luôn sao lưu dữ liệu trước khi phân vùng hoặc cài đặt macOS.
+- Back up all important data.
+- Use a separate USB drive for the installer.
+- Never replace an existing EFI folder without making a backup.
+- Read the relevant OpenCore documentation for your hardware platform.
