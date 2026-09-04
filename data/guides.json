@@ -6,6 +6,7 @@
         "category": "Fundamentals",
         "level": "Beginner",
         "content": "guides/getting-started-with-opencore.md",
+        "image": "images/guides/getting-started-with-opencore.webp",
         "published": true,
         "featured": true,
         "updated_at": "2026-09-04"
@@ -17,8 +18,21 @@
         "category": "Safety",
         "level": "Beginner",
         "content": "guides/efi-backup-and-recovery.md",
+        "image": "images/guides/efi-backup-and-recovery.webp",
         "published": true,
         "featured": true,
+        "updated_at": "2026-09-04"
+    },
+    {
+        "slug": "opencore-update-plan",
+        "title": "How to Create a Safe OpenCore Update Plan",
+        "description": "Plan, validate, and recover from OpenCore, kext, and EFI updates safely.",
+        "category": "EFI Management",
+        "level": "Intermediate",
+        "content": "guides/opencore-update-plan.md",
+        "image": "images/guides/opencore-update-plan.webp",
+        "published": true,
+        "featured": false,
         "updated_at": "2026-09-04"
     }
 ]
