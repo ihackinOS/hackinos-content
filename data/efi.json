@@ -1,44 +1,5 @@
 [
     {
-        "slug": "dell-latitude-7490",
-        "title": "Dell Latitude 7490 OpenCore EFI",
-        "description": "A curated OpenCore EFI configuration for the Dell Latitude 7490 with Intel Core i5-8350U and Intel UHD 620 graphics.",
-        "cover": "images/efi/dell-latitude-7490-cover.webp",
-        "banner": "images/efi/dell-latitude-7490-banner.webp",
-        "platform": "Laptop",
-        "brand": "Dell",
-        "model": "Latitude 7490",
-        "cpu": "Intel Core i5-8350U",
-        "gpu": "Intel UHD 620",
-        "motherboard": "Dell 0KP0FT",
-        "macos": [
-            "Tahoe",
-            "Sequoia",
-            "Sonoma",
-            "Ventura",
-            "Monterey",
-            "Bigsur",
-            "Catalina",
-            "Mojave",
-            "High Sierra"
-        ],
-        "status": "stable",
-        "working": [
-            "Wi-Fi",
-            "Bluetooth",
-            "Audio",
-            "Sleep",
-            "Battery"
-        ],
-        "guide": "efi-guides/dell-latitude-7490.md",
-        "download_url": "https://github.com/ihackinOS/your-efi-repository/releases/download/v1.0/dell-latitude-7490-efi.zip",
-        "version": "1.0.0",
-        "opencore_version": "1.0.5",
-        "updated_at": "2026-09-04",
-        "published": true,
-        "featured": true
-    },
-    {
         "slug": "ga-h81m-s2ph",
         "title": "Gigabyte H81M S2PH",
         "description": "A curated OpenCore EFI configuration for the Gigabyte H81M S2PH with Intel Hasswell and Intel HD Graphics.",
