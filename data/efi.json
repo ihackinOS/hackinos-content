@@ -2,7 +2,7 @@
     {
         "slug": "ga-h81m-s2ph",
         "title": "Gigabyte H81M S2PH",
-        "description": "A curated OpenCore EFI configuration for the Gigabyte H81M S2PH with Intel Hasswell and Intel HD Graphics.",
+        "description": "A curated OpenCore EFI configuration for the GA-H81M-S2PH with Intel Hasswell and Intel HD Graphics.",
         "cover": "images/efi/ga-h81m-s2ph-cover.webp",
         "banner": "images/efi/ga-h81m-s2ph-banner.webp",
         "platform": "Desktop",
