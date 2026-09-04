@@ -12,8 +12,15 @@
         "gpu": "Intel UHD 620",
         "motherboard": "Dell 0KP0FT",
         "macos": [
+            "Tahoe",
+            "Sequoia",
+            "Sonoma",
             "Ventura",
-            "Sonoma"
+            "Monterey",
+            "Bigsur",
+            "Catalina",
+            "Mojave",
+            "High Sierra"
         ],
         "status": "stable",
         "working": [
