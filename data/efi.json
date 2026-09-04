@@ -3,9 +3,11 @@
         "slug": "dell-latitude-7490",
         "title": "Dell Latitude 7490 OpenCore EFI",
         "description": "A curated OpenCore EFI configuration for the Dell Latitude 7490 with Intel Core i5-8350U and Intel UHD 620 graphics.",
-        "cover": "images/efi/dell-latitude-7490.webp",
+        "cover": "images/efi/dell-latitude-7490-cover.webp",
+        "banner": "images/efi/dell-latitude-7490-banner.webp",
         "platform": "Laptop",
         "brand": "Dell",
+        "model": "Latitude 7490",
         "cpu": "Intel Core i5-8350U",
         "gpu": "Intel UHD 620",
         "motherboard": "Dell 0KP0FT",
@@ -18,11 +20,15 @@
             "Wi-Fi",
             "Bluetooth",
             "Audio",
-            "Sleep"
+            "Sleep",
+            "Battery"
         ],
         "guide": "efi-guides/dell-latitude-7490.md",
-        "download_url": "",
+        "download_url": "https://github.com/ihackinOS/your-efi-repository/releases/download/v1.0/dell-latitude-7490-efi.zip",
+        "version": "1.0.0",
+        "opencore_version": "1.0.5",
         "updated_at": "2026-09-04",
-        "published": true
+        "published": true,
+        "featured": true
     }
 ]
