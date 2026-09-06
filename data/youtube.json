@@ -4,10 +4,10 @@
     "subscribe_url": "https://www.youtube.com/@hackinos?sub_confirmation=1",
     "featured_videos": [
         {
-            "title": "Getting Started with OpenCore",
-            "video_id": "VIDEO_ID",
+            "title": "Demo HackinOS Builder Pro",
+            "video_id": "w7CGje8NbNk",
             "published_at": "2026-09-04",
-            "description": "A practical introduction to planning an OpenCore-based Hackintosh build."
+            "description": "One Click EFI."
         }
     ],
     "playlists": [
